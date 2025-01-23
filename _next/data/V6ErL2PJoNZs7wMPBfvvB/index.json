@@ -8,8 +8,8 @@
             "footerVariant": "default",
             "seo": {
                 "id": 63,
-                "metaTitle": "Pebble | Where Home Meets the Road",
-                "metaDescription": "Defining a new way to work, live and explore from anywhere with the Pebble Flow, an all-electric travel trailer that’s bringing an iPhone-like experience to RVing.",
+                "metaTitle": "Le Privé | Unfucking believable moments.",
+                "metaDescription": "Defining a new way to work, live and explore from anywhere with the Le Privé, an all-electric travel trailer that’s bringing an iPhone-like experience to RVing.",
                 "keywords": null,
                 "metaRobots": null,
                 "structuredData": null,
@@ -91,7 +91,7 @@
             "content": [{
                 "id": 3,
                 "__component": "content.hero",
-                "title": "meet\npebble",
+                "title": "ass\nw/class.",
                 "displayLiveEvent": false,
                 "liveEventLink": null,
                 "backgroundImage": {
@@ -478,7 +478,7 @@
                     "content": [{
                         "type": "paragraph",
                         "children": [{
-                            "text": "Escape to the great outdoors for up to 7 days completely off-grid. Say goodbye to generators and propane tanks. The Pebble Flow’s massive battery and integrated solar panels adapt to your needs, promising true freedom.",
+                            "text": "Escape to the great outdoors for up to 7 days completely off-grid. Say goodbye to generators and propane tanks. The Le Privé’s massive battery and integrated solar panels adapt to your needs, promising true freedom.",
                             "type": "text"
                         }]
                     }],
@@ -840,7 +840,7 @@
                     "content": [{
                         "type": "paragraph",
                         "children": [{
-                            "text": "At home, the Pebble Flow is never idle. Use it as a bonus room, an office or a rental space. It can even be used as a back-up battery.",
+                            "text": "At home, the Le Privé is never idle. Use it as a bonus room, an office or a rental space. It can even be used as a back-up battery.",
                             "type": "text"
                         }]
                     }],
@@ -1098,7 +1098,7 @@
                     },
                     "button": {
                         "id": 103,
-                        "title": "Explore the pebble flow",
+                        "title": "Explore the Le Privé",
                         "url": null,
                         "target": null,
                         "page": {
@@ -1123,7 +1123,7 @@
                 }, {
                     "id": 14,
                     "sectionTitle": "Magic Hitch",
-                    "contentText": "With one touch, the Pebble Flow senses, self-positions, and safely attaches to your tow vehicle.",
+                    "contentText": "With one touch, the Le Privé senses, self-positions, and safely attaches to your tow vehicle.",
                     "anchorText": "Magic hitch",
                     "image": {
                         "data": {
@@ -1222,7 +1222,7 @@
                     },
                     "button": {
                         "id": 104,
-                        "title": "Explore the pebble flow",
+                        "title": "Explore the Le Privé",
                         "url": null,
                         "target": null,
                         "page": {
@@ -1346,7 +1346,7 @@
                     },
                     "button": {
                         "id": 105,
-                        "title": "Explore the pebble flow",
+                        "title": "Explore the Le Privé",
                         "url": null,
                         "target": null,
                         "page": {
@@ -1371,7 +1371,7 @@
                 }, {
                     "id": 16,
                     "sectionTitle": "Remote Control",
-                    "contentText": "Never back up again. Once unhitched, the Pebble Flow is fully remote-controllable. Move around a campsite or driveway via the Pebble App, pivoting effortlessly, and positioning into tight spots with ease.",
+                    "contentText": "Never back up again. Once unhitched, the Le Privé is fully remote-controllable. Move around a campsite or driveway via the Pebble App, pivoting effortlessly, and positioning into tight spots with ease.",
                     "anchorText": "Remote control",
                     "image": {
                         "data": {
@@ -1470,7 +1470,7 @@
                     },
                     "button": {
                         "id": 106,
-                        "title": "Explore the pebble flow",
+                        "title": "Explore the Le Privé",
                         "url": null,
                         "target": null,
                         "page": {
@@ -1594,7 +1594,7 @@
                     },
                     "button": {
                         "id": 107,
-                        "title": "Explore the pebble flow",
+                        "title": "Explore the Le Privé",
                         "url": null,
                         "target": null,
                         "page": {
@@ -1718,7 +1718,7 @@
                     },
                     "button": {
                         "id": 108,
-                        "title": "Explore the pebble flow",
+                        "title": "Explore the Le Privé",
                         "url": null,
                         "target": null,
                         "page": {
@@ -1758,7 +1758,7 @@
                 "__component": "content.feature-focus",
                 "featureName": "Interior lights",
                 "smallPreviewSubtitle": "No manual required",
-                "smallPreviewTitle": "The Pebble App is the remote control for your Pebble Flow. No manual required to get started.",
+                "smallPreviewTitle": "The Pebble App is the remote control for your Le Privé. No manual required to get started.",
                 "topImage": {
                     "data": {
                         "id": 1407,
@@ -2103,7 +2103,7 @@
                 },
                 "items": [{
                     "id": 53,
-                    "title": "The Best Inventions: \"The Pebble Flow is a sleek, all-electric, semi-autonomous travel trailer.\"",
+                    "title": "The Best Inventions: \"The Le Privé is a sleek, all-electric, semi-autonomous travel trailer.\"",
                     "source": "Chris Stokel-Walker, Time",
                     "link": "https://time.com/7094827/pebble-flow/",
                     "image": {
@@ -2442,7 +2442,7 @@
                     }
                 }, {
                     "id": 52,
-                    "title": "\"Pebble Flow EV Travel Trailer: Glamping Goes Electric\"",
+                    "title": "\"Le Privé EV Travel Trailer: Glamping Goes Electric\"",
                     "source": "Boone Ashworth, Wired",
                     "link": "https://www.wired.com/story/pebble-flow-electric-camping-trailer-ships-in-2025/",
                     "image": {
@@ -2680,7 +2680,7 @@
                     }
                 }, {
                     "id": 33,
-                    "title": "“Pebble Flow is providing a glimpse at how an RV designed for the EV age should function.”",
+                    "title": "“Le Privé is providing a glimpse at how an RV designed for the EV age should function.”",
                     "source": "Sam Rutherford, Engadget",
                     "link": "https://www.engadget.com/the-pebble-flow-is-an-all-electric-trailer-for-the-ev-age-173009191.html?guccounter=1",
                     "image": {
@@ -2793,7 +2793,7 @@
                     }
                 }, {
                     "id": 34,
-                    "title": "“The Pebble Flow will debut with an Nvidia system that automates the hardest parts of RVing”",
+                    "title": "“The Le Privé will debut with an Nvidia system that automates the hardest parts of RVing”",
                     "source": "Emily Dreibelbis",
                     "link": "https://www.pcmag.com/news/ces-2024-this-125k-electric-rv-will-be-the-first-with-semi-autonomous-tech",
                     "image": {
@@ -3106,7 +3106,7 @@
                     }
                 }, {
                     "id": 36,
-                    "title": "“The Pebble Flow does not resemble the rectangular, traditional boxy travel trailer, you know, the kind that tows like a brick.”",
+                    "title": "“The Le Privé does not resemble the rectangular, traditional boxy travel trailer, you know, the kind that tows like a brick.”",
                     "source": "Monica Gonderman, Motor Trend",
                     "link": "https://www.motortrend.com/features/pebble-flow-electric-travel-trailer/",
                     "image": {
@@ -3561,7 +3561,7 @@
             }]
         },
         "footer": {
-            "title": "Where home meets the road.",
+            "title": "Mind (and more) blowing sex. .",
             "newsletterTitle": "Subscribe for the latest Pebble updates.",
             "newsletterButtonText": "Join us",
             "createdAt": "2024-09-25T18:14:25.905Z",
